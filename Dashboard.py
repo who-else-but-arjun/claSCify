@@ -304,7 +304,6 @@ def main():
         
         if st.button("🗑️ Clear History"):
             st.session_state.analysis_history = []
-            st.experimental_rerun()
     
     st.title("📚 claSCIfy : Advanced Research Paper Assessment")
     st.markdown("""
