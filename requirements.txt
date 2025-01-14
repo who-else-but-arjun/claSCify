@@ -18,4 +18,3 @@ google-api-python-client
 
 # Pathway
 pathway
-"pathway[xpack-llm]"
