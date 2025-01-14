@@ -1,5 +1,5 @@
 # Project Overview
-This repository contains a comprehensive pipeline for processing PDF documents, extracting features, and classifying them into different categories. Access Streamlit dashboard for quick inference here : https://clascify-doraemon.streamlit.app/ .Access detailed project report here: 
+This repository contains a comprehensive pipeline for processing PDF documents, extracting features, and classifying them into different categories. Access Streamlit dashboard for quick inference here : https://clascify-doraemon.streamlit.app/ . Access detailed project report here: https://drive.google.com/file/d/1Ni8SkQJm62X6zkBp52kb3Qx-SMwoqsJd/view?usp=sharing
 
 ## Repository Structure
 ```
